@@ -1,0 +1,3 @@
+1 - HTML Layout
+2 - CSS Styling
+3 - JavaScript Functionality with Mock Data and Local Storage
